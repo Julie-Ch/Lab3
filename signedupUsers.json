@@ -1,0 +1,47 @@
+[
+  {
+    "username": "exe",
+    "password": "ciaociao?",
+    "badge": {
+      "level": "CONTRIBUTORE_SUPER",
+      "date": "Wed Feb 28 13:07:02 CET 2024"
+    },
+    "number_review": 18
+  },
+  {
+    "username": "juju",
+    "password": "ciaociao?",
+    "badge": {
+      "level": "CONTRIBUTORE_SUPER",
+      "date": "Wed Feb 28 20:07:02 CET 2024"
+    },
+    "number_review": 12
+  },
+  {
+    "username": "didi",
+    "password": "ciaociao?",
+    "badge": {
+      "level": "CONTRIBUTORE_ESPERTO",
+      "date": "Fri Mar 08 13:53:35 CET 2024"
+    },
+    "number_review": 3
+  },
+  {
+    "username": "pippo",
+    "password": "ciaociao?",
+    "badge": {
+      "level": "RECENSORE",
+      "date": "Fri Mar 08 10:07:52 CET 2024"
+    },
+    "number_review": 0
+  },
+  {
+    "username": "susy",
+    "password": "ciaociao?",
+    "badge": {
+      "level": "RECENSORE",
+      "date": "Fri Mar 08 13:49:51 CET 2024"
+    },
+    "number_review": 0
+  }
+]
